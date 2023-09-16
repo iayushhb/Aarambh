@@ -14,6 +14,14 @@
     justify-content: space-evenly;
 }
 
+.border {
+    border: 2px solid transparent;
+}
+
+.border:hover {
+    border: 2px solid white;
+    border-radius: 5px;
+}
 .icon{
     font-size: 55px;
 }
@@ -127,11 +135,21 @@
     align-items: center;
 }
 .Fertilizers{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 95%;
+    margin-left: 35px;
     margin-top: 20px;
+    margin-bottom: 20px;
     font-size: 3.25rem;
-    background-color: #007185;
+    color: white;
+    background-color: black;
 }
 
+.round-corners{
+    border-radius: 25px;
+}
 .Petrochemicals{
     margin-top: 20px;
     font-size: 3.25rem;
