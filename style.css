@@ -14,6 +14,12 @@
     justify-content: space-evenly;
 }
 
+.icon-n-name{
+    display: flex;
+    justify-content: center;
+    font-size: 23px;
+    align-items: center;
+}
 .border {
     border: 2px solid transparent;
 }
@@ -24,6 +30,7 @@
 }
 .icon{
     font-size: 55px;
+    margin-right: 20px;
 }
 
 .country{
@@ -120,7 +127,7 @@
 
 .box{
     color: white;
-    height: 400px;
+    height: 420px;
     width: 28%;
     padding: 20px 0px 15px;
     margin-top: 20px;
