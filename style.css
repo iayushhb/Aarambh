@@ -94,7 +94,7 @@
 }
 
 .hero-section h1 {
-    font-size: 90px;
+    font-size: 80px;
     font-weight: 700;
     font: italic;
     padding-top: 150px;
@@ -103,8 +103,7 @@
 }
 
 .hero-section h2 {
-    font-size: 40px;
-    padding-left: 190px;
+    font-size: 45px;
     padding-top: 10px;
     color: black;
 }
